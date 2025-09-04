@@ -3,6 +3,10 @@
 This repository documents the full lifecycle of building a **SQL Server Data Warehouse** with a **Power BI front-end**.  
 It covers project planning, data modeling, ETL, and reporting.
 
+
+![Alt text](https://github.com/joseph0327/SQL-Data-Warehouse-Project/blob/de445d8ade77b97df5d56db12f4672acb5680e82/Data%20Architecture.drawio.png)
+![Alt text](https://github.com/joseph0327/SQL-Data-Warehouse-Project/blob/de445d8ade77b97df5d56db12f4672acb5680e82/visual1.png)
+
 ---
 
 ## 📋 Table of Contents
@@ -271,6 +275,9 @@ ROW_NUMBER() OVER (ORDER BY cst_id) as customer_key
 - Add DAX measures.
 - Create visuals and dashboards.
 
+![Alt text](https://github.com/joseph0327/SQL-Data-Warehouse-Project/blob/de445d8ade77b97df5d56db12f4672acb5680e82/visual1.png)
+![Alt text](https://github.com/joseph0327/SQL-Data-Warehouse-Project/blob/de445d8ade77b97df5d56db12f4672acb5680e82/visual2.png)
+![Alt text](https://github.com/joseph0327/SQL-Data-Warehouse-Project/blob/de445d8ade77b97df5d56db12f4672acb5680e82/visual3.png)
 ---
 
 ## 📝 Conventions
