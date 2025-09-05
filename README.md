@@ -37,6 +37,8 @@ We use **Notion** to plan epics and tasks.
 
 This ensures clear tracking of work across Bronze, Silver, and Gold layers.
 
+![Alt text](https://github.com/joseph0327/SQL-Data-Warehouse-Project/blob/1cbac48c0b72816e50059da44de6a6481b3909d0/visual4.png)
+
 ---
 
 ## 🗄️ Step 2: Building the Data Warehouse
