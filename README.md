@@ -5,7 +5,7 @@ It covers project planning, data modeling, ETL, and reporting.
 
 
 ![Alt text](https://github.com/joseph0327/SQL-Data-Warehouse-Project/blob/de445d8ade77b97df5d56db12f4672acb5680e82/Data%20Architecture.drawio.png)
-![Alt text](https://github.com/joseph0327/SQL-Data-Warehouse-Project/blob/de445d8ade77b97df5d56db12f4672acb5680e82/visual1.png)
+![Alt text](https://github.com/joseph0327/SQL-Data-Warehouse-Project/blob/a12a3902c7aed1a9bbd91ccea539f63c669467a2/visual1.png)
 
 ---
 
@@ -275,8 +275,8 @@ ROW_NUMBER() OVER (ORDER BY cst_id) as customer_key
 - Add DAX measures.
 - Create visuals and dashboards.
 
-![Alt text](https://github.com/joseph0327/SQL-Data-Warehouse-Project/blob/de445d8ade77b97df5d56db12f4672acb5680e82/visual1.png)
-![Alt text](https://github.com/joseph0327/SQL-Data-Warehouse-Project/blob/de445d8ade77b97df5d56db12f4672acb5680e82/visual2.png)
+![Alt text](https://github.com/joseph0327/SQL-Data-Warehouse-Project/blob/a12a3902c7aed1a9bbd91ccea539f63c669467a2/visual1.png)
+![Alt text](https://github.com/joseph0327/SQL-Data-Warehouse-Project/blob/a12a3902c7aed1a9bbd91ccea539f63c669467a2/visual2.png)
 ![Alt text](https://github.com/joseph0327/SQL-Data-Warehouse-Project/blob/de445d8ade77b97df5d56db12f4672acb5680e82/visual3.png)
 ---
 
